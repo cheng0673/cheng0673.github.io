@@ -29,12 +29,5 @@
 但内心更偏向就业，毕竟——**我要实现经济自由！！！**  
 先定个小目标：顺利毕业，然后赚点钱，吃遍好吃的。
 
-## 📊 GitHub Stats
-
-![陈铮的GitHub Stats](https://github-readme-stats.vercel.app/api?username=<你的GitHub用户名>&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<你的GitHub用户名>&layout=compact&theme=radical&hide_border=true)
-
----
 
 ⭐️ 感谢访问！欢迎分享美食和游戏心得嘻嘻。
