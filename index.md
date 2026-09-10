@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "陈铮"
+title: "Hi there, I'm 陈铮，🍊"
 permalink: /
 author_profile: true
 ---
 
-# Hi there, I'm 陈铮，🍊
 
 > 福州大学 · 计算机科学与技术专业
 
